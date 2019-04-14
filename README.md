@@ -1,37 +1,18 @@
-## Welcome to  GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/VFDan/VFDan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is [https://github.com/VFDan](VFDan). I am also on [https://codepen.io/vfdan/#](Codepen), [https://scratch.mit.edu/users/VFDan/](Scratch), and [https://stackoverflow.com/users/10637444/vfdan](Stack Overflow). My Discord is VFDan#3008.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Repositories
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are the repositories that I have:
++ [https://github.com/VFDan/VFDan.github.io](VFDan.github.io), the repository that makes this website.
++ [https://github.com/VFDan/VFD](VFD), a Discord Bot.
++ [https://github.com/VFDan/NumberProto.js](NumberProto.js), a JS repository that helps with working with numbers.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Gists
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VFDan/VFDan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+These are the Github Gists that I have:
++ [https://gist.github.com/VFDan/79f98e887eb8beaba1b1baba291f4993](emphasis-if.less), A LESS function to add emphasis, and also an if operator.
++ [https://gist.github.com/VFDan/dbe3f7ba0b92aa8f5f662695ff0b6405](rand-num.js), A JS RNG (Random Number Generator).
