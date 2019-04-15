@@ -21,5 +21,5 @@ These are the Github Gists that I have:
 ### Scratch
 Here is one of my Scratch projects, [Monochromatic Calculator](https://scratch.mit.edu/projects/288852149/):
 <br>
-<iframe src="https://scratch.mit.edu/projects/288852149/embed" width="500" id="calculator"
-    title="Monochromatic Calculator"><p>Your browser does not support `<iframe>`s.
+<iframe src="https://scratch.mit.edu/projects/288852149/embed" width="750" id="calculator"
+    title="Monochromatic Calculator"><p>Your browser does not support `<iframe>`s.</p></iframe>
