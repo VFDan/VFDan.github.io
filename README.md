@@ -16,3 +16,10 @@ Here are the repositories that I have:
 These are the Github Gists that I have:
 + [emphasis-if.less](https://gist.github.com/VFDan/79f98e887eb8beaba1b1baba291f4993), A LESS function to add emphasis, and also an if operator.
 + [rand-num.js](https://gist.github.com/VFDan/dbe3f7ba0b92aa8f5f662695ff0b6405), A JS RNG (Random Number Generator).
+
+## Other Places
+### Scratch
+Here is one of my Scratch projects, [Monochromatic Calculator](https://scratch.mit.edu/projects/288852149/):
+<br>
+<iframe src="https://scratch.mit.edu/projects/288852149/embed" width="500" id="calculator"
+    title="Monochromatic Calculator"><p>Your browser does not support `<iframe>`s.
