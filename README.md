@@ -1,7 +1,6 @@
 ## Welcome!
 
-Hello, my name is [VFDan](https://github.com/VFDan). I am also on [Codepen](https://codepen.io/vfdan/#), [Scratch](https://scratch.mit.edu/users/VFDan/), and [Stack Overflow](https://stackoverflow.com/users/10637444/vfdan). My Discord is VFDan#3008.
-
+Hello, my name is [VFDan](https://github.com/VFDan). I am also on [Codepen](https://codepen.io/vfdan/#), [Scratch](https://scratch.mit.edu/users/VFDan/), and [Stack Overflow](https://stackoverflow.com/users/10637444/vfdan). 
 
 ## Repositories
 
