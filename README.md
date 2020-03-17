@@ -6,7 +6,7 @@ Hello, my name is [VFDan](https://github.com/VFDan). I am also on [Codepen](http
 
 Here are the repositories that I have:
 + [VFDan.github.io](https://github.com/VFDan/VFDan.github.io), the repository that makes this website.
-+ [NumberProto.js](https://github.com/VFDan/NumberProto.js), a JS repository that helps with working with numbers.
++ [NumberProto.js](https://numberproto.js.org), a JS [repository](https://github.com/VFDan/NumberProto.js/) that helps with working with numbers.
 
 
 ## Gists
