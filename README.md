@@ -18,7 +18,11 @@ These are the main Github Gists that I have:
 + [rand-num.js](https://gist.github.com/VFDan/dbe3f7ba0b92aa8f5f662695ff0b6405), A JS RNG (Random Number Generator).
 
 ## Other Places
+
+I have made a [collection](https://vfdan.github.io/InterestingTechs/) of games and animations I have made in interesting techs, for [BlueMaxima's Flashpoint](https://bluemaxima.org/flashpoint).
+
 ### Scratch
+
 Here is one of my Scratch projects, [Monochromatic Calculator](https://scratch.mit.edu/projects/288852149/):
 <br>
 <iframe src="https://scratch.mit.edu/projects/288852149/embed" width="1000" height="800" id="calculator"
