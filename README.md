@@ -1,6 +1,6 @@
 ## Welcome!
 
-Hello, my name is [VFDan](https://github.com/VFDan). I am also on [Codepen](https://codepen.io/vfdan/#), [Scratch](https://scratch.mit.edu/users/VFDan/), and [Stack Overflow](https://stackoverflow.com/users/10637444/vfdan). 
+Hi! My name is [VFDan](https://github.com/VFDan). I am also on [Codepen](https://codepen.io/vfdan/#), [Scratch](https://scratch.mit.edu/users/VFDan/), and [Stack Overflow](https://stackoverflow.com/users/10637444/vfdan). 
 
 ## Repositories
 
@@ -17,13 +17,6 @@ These are the main Github Gists that I have:
 + [emphasis-if.less](https://gist.github.com/VFDan/79f98e887eb8beaba1b1baba291f4993), A LESS function to add emphasis, and also an if operator.
 + [rand-num.js](https://gist.github.com/VFDan/dbe3f7ba0b92aa8f5f662695ff0b6405), A JS RNG (Random Number Generator).
 
-## Other Places
+## Other Things
 
 I have made a [collection](https://vfdan.github.io/InterestingTechs/) of games and animations I have made in interesting techs, for [BlueMaxima's Flashpoint](https://bluemaxima.org/flashpoint).
-
-### Scratch
-
-Here is one of my Scratch projects, [Monochromatic Calculator](https://scratch.mit.edu/projects/288852149/):
-<br>
-<iframe src="https://scratch.mit.edu/projects/288852149/embed" width="1000" height="800" id="calculator"
-    title="Monochromatic Calculator"><p>Your browser does not support `<iframe>`s.</p></iframe>
