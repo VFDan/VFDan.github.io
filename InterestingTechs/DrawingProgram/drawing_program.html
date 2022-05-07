@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-US"> 
+	<head>
+		<meta charset="UTF-8" />
+		<title>Drawing Program</title>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/p5.js"></script>
+		<script type="text/javascript">
+			function setup() {
+				createCanvas(500, 400);
+				background(0);
+			}
+			function draw() {
+				var red = color(248, 48, 11),
+				/**/green = color(12, 201, 17),
+				/**/addG = color(0, 1, 0),
+				/**/addR = color(1, 0, 0);
+ 				if (mouseIsPressed) {
+ 					fill(green);
+					stroke(addG);
+    					ellipse(mouseX, mouseY, 52, 52); 
+ 				} else {
+					fill(red); 
+					stroke(addR);
+    					ellipse(mouseX, mouseY, 52, 52); 
+				}
+ 			}
+			function keyPressed() {
+				background(0);
+			}
+		</script>
+	</head>
+	<body>
+		<h1>Drawing Program</h1>
+		<h2>With Proccessing</h2>
+		<h3>Press 'r' or 'R' to reset.</h3>
+	</body>
+</html>
