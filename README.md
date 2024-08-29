@@ -8,7 +8,6 @@ Here are the main repositories that I have:
 * [Scratch Dark Theme](https://github.com/VFDan/Scratch-Dark-Theme), a dark theme for Scratch.
 * [Flag Guesser](https://vfdan.github.io/Flag-Guesser), a simple tool that shows a flag for you to guess.
 * [Notepad](https://vfdan.github.io/notepad/), a Unicode notepad that saves what you typed, only in your browser.
-+ [NumberProto.js](https://numberproto.js.org), a JS [repository](https://github.com/VFDan/NumberProto.js/) that helps with working with numbers.
 + [VFDan.github.io](https://github.com/VFDan/VFDan.github.io), the repository that makes this website.
 
 ## Gists
